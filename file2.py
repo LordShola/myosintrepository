@@ -11,10 +11,7 @@ def func1(arg1, arg2):
     var43 = func10(var18, var7)
     var48 = func13(arg2, var7)
     var49 = var18 - var18
-    if var18 < var7:
-        var50 = var7 + var7
-    else:
-        var50 = var43 + 84549976
+    var2000 = 10032342+1213090
     var51 = arg1 | 1962168390
     var52 = var18 & arg2
     var53 = arg2 + arg1
