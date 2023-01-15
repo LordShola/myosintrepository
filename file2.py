@@ -37,30 +37,6 @@ def func13(arg44, arg45):
     for var47 in xrange(20):
         var46 += (6 & var46) - 0
     return var46
-def func12(arg28, arg29):
-    var30 = arg29 + (arg29 - 823)
-    var31 = (-2139686388 & arg29) | var30 & 367
-    var32 = (arg28 & (var30 ^ arg29)) | arg28
-    var33 = arg28 ^ -518713209 - 137 - arg28
-    if var30 < var32:
-        var34 = var30 & arg29
-    else:
-        var34 = var30 & (var30 | arg28)
-    var35 = (var32 | 449) + var30
-    var36 = -1640840442 + var33 - var35
-    var37 = var36 & var30 & 956641831
-    if var33 < var30:
-        var38 = var33 - ((var37 | var37) | arg28)
-    else:
-        var38 = var37 + arg29 | (var32 | 860)
-    if var31 < var32:
-        var39 = var31 + (var37 ^ var33) + var31
-    else:
-        var39 = var35 + (1891614132 | var30 ^ -2021609943)
-    var40 = arg28 ^ var37 | (var37 ^ var36)
-    var41 = arg28 ^ 1298670303
-    result = (arg29 & (var41 ^ var41) ^ ((arg28 & var41) + ((var32 | var41) & var33)) - arg28 - -518 - arg29) - arg28
-    return result
 class class8(object):
     def func7(self, arg21, arg22):
         result = (((arg21 & arg22) | 0 | arg21 + arg22) & arg22) + arg22
@@ -90,16 +66,6 @@ def func3(arg8, arg9):
             result = func4(acc - 1, var17)
             return result
     result = func4(10, 0)
-    return result
-def func10(arg26, arg27):
-    def func11(acc, rest):
-        var42 = func12(7, 7)
-        if acc == 0:
-            return var42
-        else:
-            result = func11(acc - 1, var42)
-            return result
-    result = func11(10, 0)
     return result
 if __name__ == "__main__":
     print 'prog_size: 5'

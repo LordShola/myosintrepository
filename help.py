@@ -25,27 +25,6 @@ def func8():
     func = func7
     return func
 var23 = func8()
-def func6(arg9, arg10):
-    var11 = -1266854549 - (-2038260186 | (-659 - -739))
-    yield var11
-    var12 = ((-532806641 | arg9) ^ arg9) ^ -1967904586
-    yield var12
-    var13 = (236 & var11 & arg9) | arg9
-    yield var13
-    var14 = arg10 & var12
-    yield var14
-    var15 = var13 + arg10
-    yield var15
-    var16 = (var15 & (var13 & var12)) ^ 1421505656
-    yield var16
-    var17 = var11 ^ var12
-    yield var17
-    var18 = -5494727 - ((var11 & var16) ^ var14)
-    yield var18
-    var19 = var16 ^ var14
-    yield var19
-    var20 = var18 & 353 ^ -139193084 + var11
-    yield var20
 class class4(object):
     def func3(self, arg5, arg6):
         return 0
