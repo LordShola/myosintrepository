@@ -16,30 +16,7 @@ def func1(arg1, arg2):
     var51 = var50 ^ (-933 + 90986632) - var44 - 90 & -215 | arg2
     result = -740479390 | var50
     return result
-def func9(arg24, arg25):
-    var26 = -617 ^ 626276895
-    var27 = (var26 ^ arg25 + arg25) - 816936491
-    var28 = 985 ^ var27
-    var29 = arg25 ^ arg24 - var26 & var27
-    var30 = var29 | var27
-    var31 = var27 + 108 & 763
-    if var28 < arg24:
-        var32 = arg24 | arg24 & var27 - arg24
-    else:
-        var32 = -580 ^ var26
-    var33 = (var30 ^ var30) & var30
-    var34 = -173381177 & var33
-    var35 = arg25 & arg24
-    var36 = (var30 ^ var28 - arg25) | -496
-    var37 = ((-679 | var34) & var35) & arg25
-    var38 = (var35 - var34 - -803) - var28
-    var39 = (arg24 & arg24 + var31) ^ var28
-    var40 = var33 + (arg24 & arg25) ^ arg24
-    var41 = var28 | var40
-    var42 = arg24 - arg25 | arg24
-    var43 = 623 ^ var27 - 467
-    result = 798665792 & var34 + var28
-    return result
+
 def func8():
     closure = [-9]
     def func7(arg21, arg22):
