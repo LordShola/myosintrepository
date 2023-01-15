@@ -417,3 +417,16 @@ def func1(arg1, arg2):
     var24 = var17 ^ 2015362255
     result = (var14 - var7) - var3
     return result
+
+def func13(arg44, arg45):
+    var46 = 0
+    for var47 in xrange(20):
+        var46 += (6 & var46) - 0
+    return var46
+class class8(object):
+    def func7(self, arg21, arg22):
+        result = (((arg21 & arg22) | 0 | arg21 + arg22) & arg22) + arg22
+        return result
+class class6(class8):
+    def func7(self, arg19, arg20):
+        return 0
