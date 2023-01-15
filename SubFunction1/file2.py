@@ -44,6 +44,12 @@ class class8(object):
 class class6(class8):
     def func7(self, arg19, arg20):
         return 0
+class class6(class8):
+    def func7(self, arg19, arg20):
+        return 0
+class class6(class8):
+    def func7(self, arg19, arg20):
+        return 0
 def func5(arg10, arg11):
     var12 = 269 & 1122878089 ^ -243685472 ^ (-89 | arg10 ^ 1749958016) ^ arg11 | 981 + arg11 + (29 | (arg10 - (719307679 - ((135 - 807552779 - arg10 + arg11) ^ 943024319) + 1376786690 ^ arg11) ^ -990)) - arg11 ^ 668
     var13 = (((var12 + arg10 + -760) - arg11) - arg11) ^ (1620853067 + arg10 & -945038378)
